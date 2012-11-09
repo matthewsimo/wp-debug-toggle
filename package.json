@@ -1,0 +1,24 @@
+{
+  "description": "CLI for quickly toggling the WP_DEBUG constant.",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "url": "https://github.com/matthewsimo/wp-debug-toggle",
+  "bin": {
+    "wp-debug-toggle": "./app.js"
+  }
+  "homepage": "https://github.com/matthewsimo/wp-debug-toggle",
+  "bugs": {
+    "url": "https://github.com/matthewsimo/wp-debug-toggle/issues",
+    "email": "matthew.a.simo@gmail.com"
+  },
+  "name": "wp-debug-toggle",
+  "author": "Matthew Simo (matthew.a.simo@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewsimo/wp-debug-toggle/"
+  }
+}
+
