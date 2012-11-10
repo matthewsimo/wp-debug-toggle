@@ -3,12 +3,10 @@
   "name": "wp-debug-toggle",
   "description": "CLI for quickly toggling the WP_DEBUG constant.",
   "version": "0.0.1",
-
   "main": "./lib/main",
   "bin": {
     "debug-toggle": "./bin/app"
   },
-
   "url": "git://github.com/matthewsimo/wp-debug-toggle.git",
   "homepage": "https://github.com/matthewsimo/wp-debug-toggle",
   "bugs": {
@@ -17,10 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matthewsimo/wp-debug-toggle/"
+    "url": "git@github.com:matthewsimo/wp-debug-toggle.git"
   },
-
   "engines": {
     "node": "*"
   },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
 }
