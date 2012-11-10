@@ -11,7 +11,7 @@ This is just a little tool I've had locally for a little while that I decided to
 
 A npm module - install via `npm install wp-debug-toggle -g` (you'll want global).
 
-If it doesn't work, you'll probably need to run it from sudo. If that doesn't work, something is terrible wrong. GL.
+If it doesn't work, you'll probably need to run it from `sudo`. If that doesn't work, something is terrible wrong. GL.
 
 ---
 
