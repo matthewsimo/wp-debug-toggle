@@ -3,11 +3,15 @@ wp-debug-toggle
 
 CLI to quickly, without hassle, toggle debug on/off
 
+This is just a little tool I've had locally for a little while that I decided to actually build out. Hopefully it'll be useful to you as well, if not, I don't care, fits my workflow.
+
 ---
 
-A npm module - install via `npm install wp-debug-toggle -g`. If it doesn't work, you'll probably need to run it from sudo. If that doesn't work, something is terrible wrong. GL.
+### Installation
 
-This is just a little tool I've had locally for a little while that I decided to actually build out. Hopefully it'll be useful to you as well, if not, I don't care, fits my workflow.
+A npm module - install via `npm install wp-debug-toggle -g` (you'll want global).
+
+If it doesn't work, you'll probably need to run it from sudo. If that doesn't work, something is terrible wrong. GL.
 
 ---
 
@@ -23,6 +27,7 @@ Usage is designed to be extremely simple and super fast. The module exposes a pa
 - the moduel checks current working directory only atm
 - it searches a few common config files ( wp-config.php, local-config.php, wp-local-config.php )
 
+---
 
 #### Moving forward
 
