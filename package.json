@@ -22,5 +22,7 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "readme": "wp-debug-toggle\n===============\n\nCLI to quickly, without hassle, toggle debug on/off\n\n---\n\nA npm module - install via `npm install wp-debug-toggle -g`\n\nUsage - `$ debug-toggle`",
+  "readmeFilename": "README.md"
 }
